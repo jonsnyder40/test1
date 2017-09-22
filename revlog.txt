@@ -1,2 +1,2 @@
-Rev 1
-shit don't work
+Rev 2
+stuff doesn't work if you use git documentation.  search google if you want to know how to do this stuff.
